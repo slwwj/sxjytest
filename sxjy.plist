@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://221.130.130.238:9088/sxjy/sxjy.ipa</string>
+					<string>http://221.130.130.238:19080/sxjy/sxjymgl.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.shanli.h5.sxjmgl</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>泗县管理平台</string>
+				<string>人才管理</string>
 			</dict>
 		</dict>
 	</array>
